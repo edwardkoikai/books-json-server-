@@ -1,7 +1,7 @@
 {
-  "name": "books-json-server",
+  "name": "books-json-server-",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -19,7 +19,6 @@
   "homepage": "https://github.com/edwardkoikai/books-json-server-#readme",
   "description": "",
   "dependencies": {
-    "json-server": "^1.0.0-beta.3",
-    "lowdb": "^1.0.0"
+    "json-server": "^0.17.0"
   }
 }
